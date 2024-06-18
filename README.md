@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi I'm Jack!
+
+👉 I am a software engineer. My previous work experiences include:
+- backend eng @ **meta ai 🤖🧠** (current)
+- ml infra eng @ **[woodstock.club](https://woodstock.club/) 📈📉** (3 months)
+- full-stack eng @ **applied intuition 🚙💨** (2 years)
+
+💡 Interested in startups, AI, and music.
 
 <!--
 **dvorjackz/dvorjackz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
